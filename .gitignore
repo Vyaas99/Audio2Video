@@ -1,9 +1,0 @@
-data/**
-output/**
-**/__pycache__
-models/vggsound/learned_embeds.pth
-models/CAVP/cavp_epoch66.ckpt
-BEATs_structure
-models/BEATs/BEATs_iter3_plus_AS2M_finetuned_on_AS2M_cpt2.pt
-outputs/**
-wandb/**
